@@ -75,6 +75,7 @@ node -v
 ## 5. Troubleshooting
 During the process, the following issues were encountered:
 
+
 1. Environment Variable Conflicts: PHP paths were causing conflicts. These paths were deleted to resolve the issue.
 2. Node.js Installation Conflict: There was a conflict between the standalone Node.js installation and the one installed with Laravel Herd. To resolve this, Node.js was uninstalled.
 
